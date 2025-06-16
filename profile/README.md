@@ -19,4 +19,4 @@
 
 I'll eventually make videos about some of this stuff...
 
-![footer](footer.png)
+![footer](githubFooter.png)
