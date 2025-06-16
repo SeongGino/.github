@@ -1,4 +1,4 @@
-![header](githubBanner.png)
+![header](https://github.com/SeongGino/.github/blob/main/profile/githubBanner.png)
 
 ## This is the page where I make stuff
 ###### (against better judgement and common sense)
@@ -19,4 +19,4 @@
 
 I'll eventually make videos about some of this stuff...
 
-![footer](githubFooter.png)
+![footer](https://github.com/SeongGino/.github/blob/main/profile/githubFooter.png)
